@@ -99,7 +99,7 @@ const CHARS: &[char] = &[
 ];
 
 pub const RENDEZVOUS_SERVERS: &[&str] = &["rustdaaaa.com"];
-pub const RS_PUB_KEY: &str = "";
+pub const RS_PUB_KEY: &str = "123456789";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
