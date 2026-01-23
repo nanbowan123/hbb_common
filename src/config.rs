@@ -107,7 +107,7 @@ const CHARS: &[char] = &[
 ];
 
 pub const RENDEZVOUS_SERVERS: &[&str] = &["rustdesk.behomesc.com"];
-pub const RS_PUB_KEY: &str = "XvQU4eSbFTrCwH5TdPwg4Q4TglQunEk4rAkMBKaTYYU=";
+pub const RS_PUB_KEY: &str = "1RyTa7rfUJbNKEUXqxUHmCNqzv1vJNKeohrpRi4rmQ0=";
 
 pub const RENDEZVOUS_PORT: i32 = 21116;
 pub const RELAY_PORT: i32 = 21117;
